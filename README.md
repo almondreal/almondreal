@@ -1,7 +1,7 @@
 # Hola!:wave: Mucho Gusto.:blush:
 Hi, I'm Almond Manager with Finance background & love for anything Data or Tech. Open-source documentation & translation contributor, working on using data for good, big team player. Python is my first language, loving Markdown too. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
-currently working at [https://softwarecosts.com/](software cost) as a freelance developer
+currently working at [software costs](https://softwarecosts.com/) as a freelance developer
 ## More About Me:
 
 :purple_heart: Kind people are my kinda people
